@@ -21,3 +21,4 @@ except Exception as e:
 
 
 #i = 0/0
+# We added it here just for fun
